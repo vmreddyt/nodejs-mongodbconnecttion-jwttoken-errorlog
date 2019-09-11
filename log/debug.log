@@ -1,0 +1,58 @@
+MongoClient: REST API running on PORT  8083
+MongoClient: REST API running on PORT  8083
+MongoClient connection is success 
+ REST API running on PORT  8083
+name : TokenExpiredError
+message : jwt expired
+expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)
+MongoClient connection is success 
+ REST API running on PORT  8083
+JWT Token error
+name : TokenExpiredError
+message : jwt expired
+expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)
+MongoClient connection is success 
+ REST API running on PORT  8083
+JWT Token error
+[ 'name : TokenExpiredError',
+  'message : jwt expired',
+  'expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)' ]
+MongoClient connection is success 
+ REST API running on PORT  8083
+JWT Token error : name : TokenExpiredError,message : jwt expired,expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)
+MongoClient connection is success 
+ REST API running on PORT  8083
+JWT Token error => name : TokenExpiredError,message : jwt expired,expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)
+MongoClient connection is success 
+ REST API running on PORT  8083
+JWT Token error => [ name : TokenExpiredError,message : jwt expired,expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)]
+{ access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODczMjMsImV4cCI6MTU2ODE4ODIyM30.QCkGMFGzxSeY7FAdENI4PXrhEOWlero3R7F5A5Rqu3s',
+  refresh_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODczMjMsImV4cCI6MTU2ODI3MzcyM30._nahFxiwWLNYUR0h8KM6depSI_sztKnunMHXJ6tRf2A',
+  expTimeInSeconds: 900 }
+[winston] Attempt to write logs with no transports %j
+MongoClient connection is success 
+ REST API running on PORT  8083
+[winston] Attempt to write logs with no transports %j
+{ access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc2NDIsImV4cCI6MTU2ODE4ODU0Mn0.d_MSAAEr8xEHZkMEpFKI_oqH4pBK05nCtLF1D4As0Zk',
+  refresh_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc2NDIsImV4cCI6MTU2ODI3NDA0Mn0.-0mpmv58wXRF2_rc_M7av89c9sOWpmf7QWDapBxP9uY',
+  expTimeInSeconds: 900 }
+{ access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc2NjEsImV4cCI6MTU2ODE4ODU2MX0._ypcY07v3TF5kwYzjckTjOr_EUooiSC6fr4FoXlM1SI' }
+MongoClient connection is success 
+ REST API running on PORT  8083
+MongoClient connection is success 
+ REST API running on PORT  8083
+Refresh Token : [object Object]
+Refresh Token : [object Object]
+MongoClient connection is success 
+ REST API running on PORT  8083
+Refresh Token : access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc4MzAsImV4cCI6MTU2ODE4ODczMH0.35ypqofygZBKzszvXY1V6fs-LS3WFQtDi-FXkCfQ-wo
+MongoClient connection is success 
+ REST API running on PORT  8083
+Refresh Token => access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc4NjIsImV4cCI6MTU2ODE4ODc2Mn0.PCudmRtfc0X-8mHLaLBzrWNtva3mti3Ib-kDWtqhxns
+MongoClient connection is success 
+ REST API running on PORT  8083
+Refresh Token => access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODgwMjAsImV4cCI6MTU2ODE4ODkyMH0.am3ELgABRU0K4DeO-9lHnD4muCMJem5t4xw5VoESWe4
+{ access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODgwMjQsImV4cCI6MTU2ODE4ODkyNH0.13PnnGDawyQT3pCRcPCvCWkYI8JN2uduQOWIAYjQiYw',
+  refresh_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODgwMjQsImV4cCI6MTU2ODI3NDQyNH0.aSOW1rkgfeYs8MRZSBwPi1XE_96zfSrZQ96BdzlVSGI',
+  expTimeInSeconds: 900 }
+[winston] Attempt to write logs with no transports %j

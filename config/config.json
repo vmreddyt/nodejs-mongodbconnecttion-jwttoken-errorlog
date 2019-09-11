@@ -1,0 +1,12 @@
+{
+    "secret": "some-secret-shit-goes-here",
+    "refreshTokenSecret": "some-secret-refresh-token-shit",
+    "port": 8083,
+    "tokenLifeInSeconds": 900,
+    "refreshTokenLifeInSeconds": 86400,
+    "dbUrl": "mongodb://127.0.0.1:27017/",
+    "logDirFolderName": "log",
+    "serverMsg": "REST API running on PORT ",
+    "errMsg": "Service Unavailable",
+    "database": "books"
+}

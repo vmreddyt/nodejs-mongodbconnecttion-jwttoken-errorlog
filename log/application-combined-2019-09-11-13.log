@@ -1,0 +1,123 @@
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:33:09.216Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:33:09.219Z' }
+{ message: 'JWT Token error : name : TokenExpiredError,message : jwt expired,expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)',
+  level: 'error',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:33:15.468Z' }
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:34:02.303Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:34:02.306Z' }
+{ message: 'JWT Token error => name : TokenExpiredError,message : jwt expired,expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)',
+  level: 'error',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:34:13.376Z' }
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:34:51.748Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:34:51.752Z' }
+{ message: 'JWT Token error => [ name : TokenExpiredError,message : jwt expired,expiredAt : Tue Sep 10 2019 17:45:55 GMT+0530 (India Standard Time)]',
+  level: 'error',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:34:52.038Z' }
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:40:06.949Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:40:06.952Z' }
+{ message: 
+   { access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc2NDIsImV4cCI6MTU2ODE4ODU0Mn0.d_MSAAEr8xEHZkMEpFKI_oqH4pBK05nCtLF1D4As0Zk',
+     refresh_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc2NDIsImV4cCI6MTU2ODI3NDA0Mn0.-0mpmv58wXRF2_rc_M7av89c9sOWpmf7QWDapBxP9uY',
+     expTimeInSeconds: 900 },
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:40:42.081Z' }
+{ message: 
+   { access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc2NjEsImV4cCI6MTU2ODE4ODU2MX0._ypcY07v3TF5kwYzjckTjOr_EUooiSC6fr4FoXlM1SI' },
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:41:01.337Z' }
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:42:04.323Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:42:04.326Z' }
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:42:22.080Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:42:22.083Z' }
+{ message: 'Refresh Token : [object Object]',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:42:22.144Z' }
+{ message: 'Refresh Token : [object Object]',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:42:23.340Z' }
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:43:50.421Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:43:50.424Z' }
+{ message: 'Refresh Token : access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc4MzAsImV4cCI6MTU2ODE4ODczMH0.35ypqofygZBKzszvXY1V6fs-LS3WFQtDi-FXkCfQ-wo',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:43:50.530Z' }
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:44:18.441Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:44:18.443Z' }
+{ message: 'Refresh Token => access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODc4NjIsImV4cCI6MTU2ODE4ODc2Mn0.PCudmRtfc0X-8mHLaLBzrWNtva3mti3Ib-kDWtqhxns',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:44:22.191Z' }
+{ message: 'MongoClient connection is success :)',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:46:56.057Z' }
+{ message: 'REST API running on PORT  8083',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:46:56.061Z' }
+{ message: 'Refresh Token => access_token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODgwMjAsImV4cCI6MTU2ODE4ODkyMH0.am3ELgABRU0K4DeO-9lHnD4muCMJem5t4xw5VoESWe4',
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:47:00.182Z' }
+{ message: 
+   { access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODgwMjQsImV4cCI6MTU2ODE4ODkyNH0.13PnnGDawyQT3pCRcPCvCWkYI8JN2uduQOWIAYjQiYw',
+     refresh_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InZlbmthdCIsInBhc3N3b3JkIjoiVGVzdEAxMjMiLCJpYXQiOjE1NjgxODgwMjQsImV4cCI6MTU2ODI3NDQyNH0.aSOW1rkgfeYs8MRZSBwPi1XE_96zfSrZQ96BdzlVSGI',
+     expTimeInSeconds: 900 },
+  level: 'info',
+  label: 'Testing logs',
+  timestamp: '2019-09-11T07:47:04.498Z' }
